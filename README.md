@@ -16,7 +16,7 @@ HelpMate is a smart support chatbot that combines natural language understanding
 ## How to Run Locally
 
 ### 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/helpmate-chatbot.git
+git clone https://github.com/harshita-aggarwal/helpmate-chatbot.git
 cd helpmate-chatbot
 
 ### 2. Create and Activate Virtual Environment
