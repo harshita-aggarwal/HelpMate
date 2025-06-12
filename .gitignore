@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Streamlit cache
+frontend/.streamlit/
+frontend/__pycache__/
+
+# VS Code settings (optional)
+.vscode/
+
+# macOS system files
+.DS_Store
+
