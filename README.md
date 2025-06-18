@@ -7,7 +7,7 @@ HelpMate is a smart chatbot built with **FastAPI** and **Streamlit**, using **An
 ## Features (MVP)
 - **FastAPI backend** that processes user messages via an API
 - **Streamlit frontend** for an interactive chat interface
-- Claude 3 (Anthropic API) for intelligent responses
+- **Claude 3 (Anthropic API)** for intelligent responses
 - Modular project structure for future LLMs, Knowledge base
 
 ---
@@ -60,7 +60,6 @@ streamlit run app.py
 - Type any question - and HelpMate will respond using Claude AI.
 
 ## Next Steps
-- Integrate OpenAI or Claude for smart responses
 - Add knowledge base with LangChain or LlamaIndex
 - Add user intent detection
 - Dockerize and deploy on AWS
